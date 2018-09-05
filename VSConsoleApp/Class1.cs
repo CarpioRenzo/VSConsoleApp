@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace VSConsoleApp
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //Test 1
-
-        }
     }
 }
