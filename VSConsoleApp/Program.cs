@@ -13,11 +13,7 @@ namespace VSConsoleApp
             //Test 1
             //More COmments
 
-            //Change from Visual Studio
-
-            //Changes Master
-
-            //Changes
+            //Feature 1 Change
         }
     }
 }
